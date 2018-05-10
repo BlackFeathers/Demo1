@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="tab_menu_alert">天</string>
+    <string name="tab_menu_profile">地</string>
+    <string name="tab_menu_pay">玄</string>
+    <string name="tab_menu_setting">黄</string>
+</resources>
